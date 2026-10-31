@@ -37,7 +37,17 @@ Presents employee-related insights through interactive visualizations and analyt
 
 ## 📸 Dashboard Preview
 
-*Dashboard screenshots will be added here.*
+### 1. Executive Inventory Dashboard
+
+![Executive Inventory Dashboard](screenshots/Executive_Inventory.png)
+
+### 2. Warehouse Analytics Dashboard
+
+![Warehouse Analytics Dashboard](screenshots/Warehouse_Analytics.png)
+
+### 3. Employee Analysis Dashboard
+
+![Employee Analysis Dashboard](screenshots/Employee_Analysis.png)
 
 ## 💡 Key Learnings
 
