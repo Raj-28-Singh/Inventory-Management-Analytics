@@ -59,19 +59,49 @@ These KPIs provide an overview of inventory performance and help monitor sales, 
 - Enabled dynamic analysis using category, status, and year filters.
 - Provided a centralized view of inventory, warehouse operations, and employee-related information.
 
-## 📝 Conclusion
-
-The Inventory Management Analytics dashboard demonstrates how Power BI can transform raw inventory data into meaningful and actionable information.
-
-By combining interactive visualizations, DAX calculations, and key performance indicators, this project provides a comprehensive view of inventory performance, warehouse operations, and employee analysis to support data-driven decision-making.
-
 ### 2. Warehouse Analytics Dashboard
 
 ![Warehouse Analytics Dashboard](screenshots/Warehouse_Analytics.png)
 
+### 🏭 Warehouse Analytics – Key Performance Indicators
+
+KPI Value 
+Total Quantity 36K 
+Total Warehouses (Reported Count) 400 
+Cities Covered 9 
+Total Employees 400
+
+### Key Business Insights
+
+- North America accounts for the highest proportion of warehouse records at 66.75%, followed by Asia at 22% and Australia at 11.25%.
+- The warehouse network covers 9 cities across three geographical regions.
+- Geographical map visualization helps understand warehouse locations and distribution.
+- City-wise warehouse analysis helps compare the distribution of warehouse records across different locations.
+- Interactive filters for region, state, and warehouse name enable detailed warehouse analysis.
+- The dashboard provides a centralized view of warehouse distribution, inventory quantity, and workforce information.54b
+
 ### 3. Employee Analysis Dashboard
 
 ![Employee Analysis Dashboard](screenshots/Employee_Analysis.png)
+
+### 👥 Employee Analysis – Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Employees | 400 |
+| Average Experience | 12.48 Years |
+| Total Job Titles | 19 |
+| Warehouses Covered (Reported Count) | 400 |
+
+### Key Business Insights
+
+- The dataset contains 400 employees across 19 different job titles.
+- Employees have an average experience of 12.48 years, indicating an experienced workforce.
+- Sales Representative is the most represented job role, followed by Shipping Clerk and Stock Clerk.
+- The largest employee experience group has 10 years of experience.
+- The highest displayed employee experience is 26 years.
+- Interactive filters based on job title, warehouse name, and hiring year allow detailed workforce analysis.
+- The dashboard helps understand workforce distribution, employee experience, and staffing patterns.
 
 ## 💡 Key Learnings
 
