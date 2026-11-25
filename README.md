@@ -41,6 +41,30 @@ Presents employee-related insights through interactive visualizations and analyt
 
 ![Executive Inventory Dashboard](screenshots/Executive_Inventory.png)
 
+## 📈 Key Performance Indicators (KPIs)
+
+KPI Value 
+Total Sales 30.52M 
+Total Quantity 36K 
+Total Orders 400 
+Total Profit 75.90K 
+
+These KPIs provide an overview of inventory performance and help monitor sales, order volume, quantity, and profitability.
+
+## 🔍 Business Insights
+
+- Analyzed yearly order trends to understand changes in business performance.
+- Identified top-performing products based on total sales.
+- Monitored sales, quantity, orders, and profitability through KPI cards.
+- Enabled dynamic analysis using category, status, and year filters.
+- Provided a centralized view of inventory, warehouse operations, and employee-related information.
+
+## 📝 Conclusion
+
+The Inventory Management Analytics dashboard demonstrates how Power BI can transform raw inventory data into meaningful and actionable information.
+
+By combining interactive visualizations, DAX calculations, and key performance indicators, this project provides a comprehensive view of inventory performance, warehouse operations, and employee analysis to support data-driven decision-making.
+
 ### 2. Warehouse Analytics Dashboard
 
 ![Warehouse Analytics Dashboard](screenshots/Warehouse_Analytics.png)
